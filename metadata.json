@@ -1,0 +1,6 @@
+{
+  "name": "AutoCaption Pro",
+  "description": "A fully automated short-form video captioning engine with premium kinetic typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
